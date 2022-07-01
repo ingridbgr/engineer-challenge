@@ -113,11 +113,20 @@ Feel free to update or add more endpoints to accommodate or improve your solutio
 ## General questions
 
 - How much time did you spend working on the solution?
+
+  Around 20 hours divided in small periods along the days. 
+
 - What’s the part of the solution you are most proud of?
 
-  _You can share a code snippet here if you feel like it_
+  I think I could keep the ui feeling in the additions I made, also, I made a great improvement in the resposiveness and the accessibility of the code. 
+
+  Besides that I could implement the React 18 to the project. It was a bit challenging once there is some things not working properly on React 18v yet, but it was nice to make those changes and updates.
 
 - If you had more time, what other things you would like to do?
+  I think I would create more filters, to filter more than names and also I would make more tests. 
+
 - Do you have any feedback regarding this coding challenge?  
 
-  _Is the initial setup working?, is something missing?, or any other comment_
+ I loved that everything is based on docker so, at least for me that use docker everyday it was really quick and easy to set the envirorment. 
+
+ I also think that the proposal was fair, I really enjoying answer this test. 
