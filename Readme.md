@@ -126,7 +126,6 @@ Feel free to update or add more endpoints to accommodate or improve your solutio
   I think I would create more filters, to filter more than names and also I would make more tests. 
 
 - Do you have any feedback regarding this coding challenge?  
+  I loved that everything is based on docker so, at least for me that use docker everyday it was really quick and easy to set the envirorment. 
 
- I loved that everything is based on docker so, at least for me that use docker everyday it was really quick and easy to set the envirorment. 
-
- I also think that the proposal was fair, I really enjoying answer this test. 
+  I also think that the proposal was fair, I really enjoying answer this test. 
